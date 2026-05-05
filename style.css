@@ -15,18 +15,6 @@ main {
     padding: 20px;
 }
 
-section {
-    background: #222;
-    margin-bottom: 10px;
-    padding: 10px;
-}
-
-footer {
-    background: #000;
-    text-align: center;
-    padding: 10px;
-}
-
 .banner {
     background: url("cell.png") center/cover no-repeat;
     height: 250px;
@@ -39,4 +27,17 @@ footer {
     background: rgba(0, 0, 0, 0.6);
     padding: 10px 20px;
     border-radius: 5px;
+}
+
+
+section {
+    background: #222;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+footer {
+    background: #000;
+    text-align: center;
+    padding: 10px;
 }
